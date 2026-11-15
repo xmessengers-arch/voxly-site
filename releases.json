@@ -1,0 +1,5 @@
+{
+  "setup": "https://github.com/xmessengers-arch/voxly-site/releases/download/v0.1.0/VoxlyCode-Setup-0.1.0.exe",
+  "portable": "https://github.com/xmessengers-arch/voxly-site/releases/download/v0.1.0/VoxlyCode-Portable-0.1.0.exe",
+  "apk": "https://github.com/xmessengers-arch/voxly-site/releases/download/v0.1.0/Voxly-Android.apk"
+}
